@@ -9,7 +9,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your_username/your_repository.git
+git clone 
 Install the required dependencies:
 Copy code
 pip install -r requirements.txt
